@@ -9,6 +9,9 @@
   </div>
 </template>
 
+
+<script  ></script>
+
 <style lang="less">
 @import "assets/base.less";
 #app {
